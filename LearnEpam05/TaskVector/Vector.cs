@@ -14,7 +14,7 @@ namespace TaskVector
             Z = z;
         }
         /// <summary>
-        /// сумма векторов
+        /// Sum of the vectors
         /// </summary>
         /// <param name="a"></param>
         /// <param name="b"></param>
